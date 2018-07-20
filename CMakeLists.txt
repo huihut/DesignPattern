@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(DesignPattern)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(DesignPattern main.cpp AbstractFactoryPattern/product.h AbstractFactoryPattern/concrete_product.h AbstractFactoryPattern/Factory.cpp AbstractFactoryPattern/Factory.h AbstractFactoryPattern/concrete_factory.h AbstractFactoryPattern/FactoryMain.cpp AbstractFactoryPattern/FactoryMain.h SingletonPattern/Singleton.cpp SingletonPattern/Singleton.h SingletonPattern/SingletonMain.h AdapterPattern/target.h AdapterPattern/adaptee.h AdapterPattern/adapter.h AdapterPattern/AdapterMain.h)

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DesignPattern"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/code/Clion/DesignPattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DesignPattern">
+				<Option output="D:/code/Clion/DesignPattern/cmake-build-debug/DesignPattern.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/Clion/DesignPattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 DesignPattern"/>
+					<CompileFile command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DesignPattern/fast">
+				<Option output="D:/code/Clion/DesignPattern/cmake-build-debug/DesignPattern.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/Clion/DesignPattern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Qt5.11.1/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 DesignPattern/fast"/>
+					<CompileFile command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/code/Clion/DesignPattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/code/Clion/DesignPattern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Qt5.11.1/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;D:/code/Clion/DesignPattern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/code/Clion/DesignPattern/AbstractFactoryPattern/Factory.cpp">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AbstractFactoryPattern/Factory.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AbstractFactoryPattern/FactoryMain.cpp">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AbstractFactoryPattern/FactoryMain.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AbstractFactoryPattern/concrete_factory.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AbstractFactoryPattern/concrete_product.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AbstractFactoryPattern/product.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AdapterPattern/AdapterMain.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AdapterPattern/adaptee.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AdapterPattern/adapter.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/AdapterPattern/target.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/SingletonPattern/Singleton.cpp">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/SingletonPattern/Singleton.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/SingletonPattern/SingletonMain.h">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/main.cpp">
+			<Option target="DesignPattern"/>
+		</Unit>
+		<Unit filename="D:/code/Clion/DesignPattern/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
