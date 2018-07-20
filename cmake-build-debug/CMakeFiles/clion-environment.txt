@@ -1,4 +1,0 @@
-ToolSet: w64 5.0@C:\Qt\Qt5.11.1\Tools\mingw530_32
-Options: msvc.arch=x86
-
-Options:

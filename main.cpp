@@ -1,8 +1,6 @@
 //
 // Created by xiemenghui on 2018/7/20.
 //
-// 设计模式例子，参考：https://blog.csdn.net/liang19890820/article/details/66974516
-//
 
 #include <iostream>
 #include "./AbstractFactoryPattern/FactoryMain.h"
