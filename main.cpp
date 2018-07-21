@@ -3,10 +3,11 @@
 //
 
 #include <iostream>
-#include "AbstractFactoryPattern/FactoryMain.h"
 #include "SingletonPattern/SingletonMain.h"
+#include "AbstractFactoryPattern/FactoryMain.h"
 #include "AdapterPattern/AdapterMain.h"
 #include "BridgePattern/BridgeMain.h"
+#include "ObserverPattern/ObserverMain.h"
 
 int main() {
     std::cout << "*******************" << std::endl;
@@ -24,6 +25,9 @@ int main() {
 
     // 桥接模式
     BridgeMain();
+
+    // 观察者模式
+    ObserverMain();
 
     return 0;
 }
